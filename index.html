@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stage CIEL : la carte des entreprises</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<style>
+  :root {
+    --fond: #f5f7fb; --carte: #ffffff; --texte: #1c2433; --doux: #5b667a;
+    --accent: #2563eb; --accent-fonce: #1d4ed8; --bord: #e2e8f0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --fond: #0f1624; --carte: #172033; --texte: #e8edf6; --doux: #9aa7bd;
+            --accent: #5b8cff; --accent-fonce: #7aa2ff; --bord: #26324a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+         background: var(--fond); color: var(--texte); line-height: 1.6; }
+  .conteneur { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+  header { background: var(--carte); border-bottom: 1px solid var(--bord); position: sticky; top: 0; z-index: 10; }
+  nav { display: flex; align-items: center; justify-content: space-between; height: 60px; }
+  .logo { font-weight: 700; font-size: 1.1rem; }
+  .logo span { color: var(--accent); }
+  nav a { color: var(--doux); text-decoration: none; margin-left: 20px; font-size: .95rem; }
+  nav a:hover { color: var(--accent); }
+  .hero { padding: 70px 0 50px; text-align: center; }
+  .hero h1 { font-size: clamp(1.9rem, 5vw, 3rem); margin: 0 0 14px; line-height: 1.15; }
+  .hero h1 span { color: var(--accent); }
+  .hero p { color: var(--doux); max-width: 620px; margin: 0 auto 28px; font-size: 1.1rem; }
+  .bouton { display: inline-block; background: var(--accent); color: #fff; padding: 12px 26px;
+            border-radius: 10px; text-decoration: none; font-weight: 600; }
+  .bouton:hover { background: var(--accent-fonce); }
+  .chiffres { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 10px 0 60px; }
+  .chiffre, .etape { background: var(--carte); border: 1px solid var(--bord); border-radius: 14px; padding: 22px; }
+  .chiffre strong { display: block; font-size: 1.6rem; color: var(--accent); }
+  .chiffre span { color: var(--doux); font-size: .95rem; }
+  h2 { font-size: 1.6rem; margin: 0 0 8px; }
+  .sous-titre { color: var(--doux); margin: 0 0 22px; }
+  .cadre-carte { border: 1px solid var(--bord); border-radius: 16px; overflow: hidden; background: var(--carte); }
+  #map { height: 560px; width: 100%; z-index: 1; }
+  .filtres { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+  .puce { border: 1px solid var(--bord); background: var(--carte); color: var(--texte); padding: 6px 14px;
+          border-radius: 999px; cursor: pointer; font: inherit; font-size: .9rem; }
+  .puce.actif { background: var(--accent); color: #fff; border-color: var(--accent); }
+  #compteur { margin: 12px 0 0; font-size: .9rem; }
+  .popup-secteur { color: #2563eb; font-weight: 600; }
+  section { padding: 30px 0; }
+  .etapes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+  .etape b { display: inline-grid; place-items: center; width: 32px; height: 32px; border-radius: 50%;
+             background: var(--accent); color: #fff; margin-bottom: 10px; }
+  .etape h3 { margin: 0 0 6px; font-size: 1.05rem; }
+  .etape p { margin: 0; color: var(--doux); font-size: .95rem; }
+  footer { margin-top: 50px; padding: 26px 0; border-top: 1px solid var(--bord); color: var(--doux); font-size: .9rem; text-align: center; }
+  @media (max-width: 600px) { nav a { margin-left: 12px; } .cadre-carte iframe { height: 420px; } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="conteneur">
+    <nav>
+      <div class="logo">Stage<span>CIEL</span></div>
+      <div><a href="#carte">Carte</a><a href="#fonctionnement">Fonctionnement</a><a href="#apropos">À propos</a></div>
+    </nav>
+  </div>
+</header>
+
+<main class="conteneur">
+  <div class="hero">
+    <h1>Trouve ton stage <span>près de chez toi</span></h1>
+    <p>La carte des entreprises du secteur informatique, réseau, électronique et cybersécurité autour d’Angoulême.</p>
+    <a class="bouton" href="#carte">Voir la carte</a>
+  </div>
+
+  <div class="chiffres">
+    <div class="chiffre"><strong>Charente</strong><span>Zone couverte par la carte</span></div>
+    <div class="chiffre"><strong>Données officielles</strong><span>Base Sirene, mise à jour automatiquement</span></div>
+    <div class="chiffre"><strong>100 % gratuit</strong><span>Réalisé avec des outils libres</span></div>
+  </div>
+
+  <section id="carte">
+    <h2>La carte des entreprises</h2>
+    <p class="sous-titre">Clique sur un point pour voir l’entreprise, son secteur et son adresse.</p>
+    <div class="filtres" id="filtres"></div>
+    <div class="cadre-carte"><div id="map"></div></div>
+    <p class="sous-titre" id="compteur">Chargement des entreprises…</p>
+  </section>
+
+  <section id="fonctionnement">
+    <h2>Comment ça marche ?</h2>
+    <p class="sous-titre">Du registre officiel à la carte, sans saisie manuelle.</p>
+    <div class="etapes">
+      <div class="etape"><b>1</b><h3>Collecte</h3><p>Un script interroge l’API Recherche d’entreprises et filtre par secteur (code NAF) et par département.</p></div>
+      <div class="etape"><b>2</b><h3>Traitement</h3><p>Les doublons et les entreprises fermées sont retirés, puis les coordonnées GPS sont récupérées.</p></div>
+      <div class="etape"><b>3</b><h3>Affichage</h3><p>Le fichier GeoJSON généré est lu directement par le site, et la bibliothèque Leaflet affiche les points sur la carte.</p></div>
+    </div>
+  </section>
+
+  <section id="apropos">
+    <h2>À propos</h2>
+    <p class="sous-titre">Projet réalisé en terminale bac pro CIEL au lycée Coulomb d’Angoulême. Données : Sirene (Insee) via api.gouv.fr, fond de carte © contributeurs OpenStreetMap.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="conteneur">StageCIEL · Projet TCIEL · Les données affichées ne concernent que des entreprises.</div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+  // Carte centrée sur Angoulême
+  const carte = L.map("map").setView([45.65, 0.16], 9);
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: "© contributeurs <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>"
+  }).addTo(carte);
+
+  const groupe = L.markerClusterGroup();
+  carte.addLayer(groupe);
+
+  let entreprises = [];
+  const secteursActifs = new Set();
+
+  // Protège contre l’injection de code (XSS) : on échappe tout texte venant des données
+  function esc(texte) {
+    const div = document.createElement("div");
+    div.textContent = texte == null ? "" : String(texte);
+    return div.innerHTML;
+  }
+
+  function contenuPopup(p) {
+    const siren = /^\d{14}$/.test(p.siret || "") ? p.siret.slice(0, 9) : "";
+    const lien = siren
+      ? `<br><a href="https://annuaire-entreprises.data.gouv.fr/entreprise/${siren}" target="_blank" rel="noopener">Fiche officielle</a>`
+      : "";
+    return `<strong>${esc(p.name)}</strong><br>
+            <span class="popup-secteur">${esc(p.secteur)}</span> (NAF ${esc(p.naf)})<br>
+            ${esc(p.commune)}${lien}`;
+  }
+
+  function afficher() {
+    groupe.clearLayers();
+    const visibles = entreprises.filter(f => secteursActifs.has(f.properties.secteur));
+    L.geoJSON({ type: "FeatureCollection", features: visibles }, {
+      onEachFeature: (f, couche) => couche.bindPopup(contenuPopup(f.properties))
+    }).eachLayer(couche => groupe.addLayer(couche));
+    document.getElementById("compteur").textContent =
+      `${visibles.length} entreprise(s) affichée(s) sur ${entreprises.length}.`;
+  }
+
+  function creerFiltres() {
+    const zone = document.getElementById("filtres");
+    const secteurs = [...new Set(entreprises.map(f => f.properties.secteur))].sort();
+    secteurs.forEach(secteur => {
+      secteursActifs.add(secteur);
+      const bouton = document.createElement("button");
+      bouton.className = "puce actif";
+      bouton.textContent = secteur;
+      bouton.addEventListener("click", () => {
+        if (secteursActifs.has(secteur)) { secteursActifs.delete(secteur); bouton.classList.remove("actif"); }
+        else { secteursActifs.add(secteur); bouton.classList.add("actif"); }
+        afficher();
+      });
+      zone.appendChild(bouton);
+    });
+  }
+
+  fetch("entreprises.geojson")
+    .then(r => { if (!r.ok) throw new Error("Fichier introuvable"); return r.json(); })
+    .then(donnees => { entreprises = donnees.features; creerFiltres(); afficher(); })
+    .catch(() => {
+      document.getElementById("compteur").textContent =
+        "Impossible de charger entreprises.geojson. Vérifie qu’il est dans le même dossier et que le site est lancé avec un serveur local.";
+    });
+</script>
+
+</body>
+</html>
