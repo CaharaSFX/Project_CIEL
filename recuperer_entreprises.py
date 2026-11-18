@@ -16,8 +16,10 @@ CODES_NAF = [
     "27.12Z", "43.21A", "43.21B", "80.20Z",
 ]
 
-# Ajoute ici le nom des entreprises que tu veux forcer sur la carte, entre guillemets et séparés par des virgules
-NOMS_A_AJOUTER = ["Ordimarques"]
+# Ajouter Des Entreprises
+NOMS_A_AJOUTER = [
+    "Ordimarques", "STG Micro Informatique",
+]
 
 FICHIER_SORTIE = "entreprises.geojson"
 
