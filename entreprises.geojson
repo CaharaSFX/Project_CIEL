@@ -1,0 +1,2273 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1999951517,
+     45.669943887
+    ]
+   },
+   "properties": {
+    "name": "ORANGE",
+    "description": "**Télécoms et réseaux** (NAF 61.10Z)\n\nBOULEVARD SALVADOR ALLENDE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Télécoms et réseaux",
+    "naf": "61.10Z",
+    "siret": "38012986615111",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1808632641,
+     45.69347377
+    ]
+   },
+   "properties": {
+    "name": "MICROMANIA",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\nC C GEANT LOCAL N 40 LELES GRANDES CHAUMES RN 10 16430 CHAMPNIERS",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "41809639201768",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.305232467,
+     45.683695629
+    ]
+   },
+   "properties": {
+    "name": "MICROMANIA",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\nROCADE DE COGNAC - LOCAL N CENTRE COMMERCIAL AUCHAN 16100 CHATEAUBERNARD",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "41809639201792",
+    "commune": "CHATEAUBERNARD"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1806575566,
+     45.693334723
+    ]
+   },
+   "properties": {
+    "name": "SFR DISTRIBUTION",
+    "description": "**Commerce informatique et télécoms** (NAF 47.42Z)\n\nC CIAL ANGOULEME CHAMPNIERS LOC 43/44 LES GRANDES CHAUMES 16430 CHAMPNIERS",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.42Z",
+    "siret": "41035886500948",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.162649499815617,
+     45.6608333162851
+    ]
+   },
+   "properties": {
+    "name": "SOCIETE FRANCAISE DU RADIOTELEPHONE - S.F.R",
+    "description": "**Télécoms et réseaux** (NAF 61.20Z)\n\n22 RUE SAINT ANTOINE 16000 ANGOULEME",
+    "secteur": "Télécoms et réseaux",
+    "naf": "61.20Z",
+    "siret": "34305956401148",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1495595976,
+     45.624615036
+    ]
+   },
+   "properties": {
+    "name": "SPIE BUILDING SOLUTIONS",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLES CHAUMES DE CRAGNE ZE DE MA CAMPAGNE 16000 ANGOULEME",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "44005586102086",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1523650196,
+     45.63244751
+    ]
+   },
+   "properties": {
+    "name": "SPIE INDUSTRIE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZONE EMPLOI MA CAMPAGNE 16000 ANGOULEME",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "84460672300063",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1596910725,
+     45.623029809
+    ]
+   },
+   "properties": {
+    "name": "CHUBB FRANCE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n5 RUE DES ENTREPRISES 16400 PUYMOYEN",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "70200052200921",
+    "commune": "PUYMOYEN"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1621812471,
+     45.624995432
+    ]
+   },
+   "properties": {
+    "name": "AXIONE",
+    "description": "**Télécoms et réseaux** (NAF 61.90Z)\n\nZA LES BRANDEAUX 16400 PUYMOYEN",
+    "secteur": "Télécoms et réseaux",
+    "naf": "61.90Z",
+    "siret": "44958654400883",
+    "commune": "PUYMOYEN"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1292816489,
+     45.65535463
+    ]
+   },
+   "properties": {
+    "name": "SCHNEIDER ELECTRIC FRANCE",
+    "description": "**Électricité et installations** (NAF 27.12Z)\n\nZI DES AGRIERS 16000 ANGOULEME",
+    "secteur": "Électricité et installations",
+    "naf": "27.12Z",
+    "siret": "42110670900189",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1999948248,
+     45.669576971
+    ]
+   },
+   "properties": {
+    "name": "SCHNEIDER ELECTRIC FRANCE",
+    "description": "**Électricité et installations** (NAF 27.12Z)\n\nZONE INDUSTRIELLE 3 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "27.12Z",
+    "siret": "42110670900569",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1310477807,
+     45.656826789
+    ]
+   },
+   "properties": {
+    "name": "BRUNET",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZI DES AGRIERS RUE DES BOSQUETS 16000 ANGOULEME",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "38981890700211",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.34582187,
+     45.689638944
+    ]
+   },
+   "properties": {
+    "name": "BRUNET",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n63 RUE HAUTE DE CROUIN 16100 COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "38981890700310",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1622080911,
+     45.649209819
+    ]
+   },
+   "properties": {
+    "name": "C&C FRANCE (C&C FRANCE)",
+    "description": "**Commerce informatique et télécoms** (NAF 46.51Z)\n\n4 PL DU CHAMP DE MARS 16000 ANGOULEME",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "46.51Z",
+    "siret": "40427677600253",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0984169722,
+     45.685829752
+    ]
+   },
+   "properties": {
+    "name": "AVEM (AVEM)",
+    "description": "**Maintenance informatique** (NAF 95.11Z)\n\nPARC D ACTIVITE 14 RUE DE L'ANGOUMOIS 16730 FLEAC",
+    "secteur": "Maintenance informatique",
+    "naf": "95.11Z",
+    "siret": "33044723600655",
+    "commune": "FLEAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.403376211,
+     45.635220983
+    ]
+   },
+   "properties": {
+    "name": "NEXECUR PROTECTION (CTCAM) (CTCAM)",
+    "description": "**Autre** (NAF 52.10B)\n\n3 ROUTE DE SAINTE FOY 16130 ARS",
+    "secteur": "Autre",
+    "naf": "52.10B",
+    "siret": "79986934200508",
+    "commune": "ARS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1304151275,
+     45.678893467
+    ]
+   },
+   "properties": {
+    "name": "EQUASENS",
+    "description": "**Informatique** (NAF 62.02B)\n\n2 RUE DU PETIT ROUILLAC 16710 SAINT-YRIEIX-SUR-CHARENTE",
+    "secteur": "Informatique",
+    "naf": "62.02B",
+    "siret": "40356113700486",
+    "commune": "SAINT-YRIEIX-SUR-CHARENTE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0878376089332766,
+     45.607498757586
+    ]
+   },
+   "properties": {
+    "name": "LOCAL.FR",
+    "description": "**Commerce informatique et télécoms** (NAF 47.91B)\n\nLE MOULIN DE L'ABBAYE 135 ROUTE DE BORDEAUX 16400 LA COURONNE",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.91B",
+    "siret": "33122115000195",
+    "commune": "LA COURONNE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1949298035,
+     45.670977085
+    ]
+   },
+   "properties": {
+    "name": "INEO AQUITAINE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZI N3 35 BOULEVARD SALVADOR ALLENDE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "41475251901091",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0961643194,
+     45.610817703
+    ]
+   },
+   "properties": {
+    "name": "INEO AQUITAINE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n78 B ROUTE DE BORDEAUX 16400 LA COURONNE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "41475251901216",
+    "commune": "LA COURONNE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.321736209,
+     45.693030023
+    ]
+   },
+   "properties": {
+    "name": "KOESIO DATA SOLUTIONS (KOESIO)",
+    "description": "**Informatique** (NAF 62.09Z)\n\n40 RUE DE MARIGNAN 16100 COGNAC",
+    "secteur": "Informatique",
+    "naf": "62.09Z",
+    "siret": "43479297400157",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1018091076,
+     45.681918604
+    ]
+   },
+   "properties": {
+    "name": "CHARANTELEC (DELAGE ENERGIES)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n25 RUE DE L'EUROPE 16730 FLEAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "41478049400012",
+    "commune": "FLEAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.457353638627341,
+     45.6088139943624
+    ]
+   },
+   "properties": {
+    "name": "CHARANTELEC (DELAGE ENERGIES)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLIEUT-DIT CROIX DE GUILLOT 16380 FEUILLADE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "41478049400103",
+    "commune": "FEUILLADE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.308896355,
+     45.680810732
+    ]
+   },
+   "properties": {
+    "name": "CHARANTELEC (DELAGE ENERGIES)",
+    "description": "**Électricité et installations** (NAF 43.22B)\n\nRUE PIERRE LATECOERE 16100 CHATEAUBERNARD",
+    "secteur": "Électricité et installations",
+    "naf": "43.22B",
+    "siret": "41478049400111",
+    "commune": "CHATEAUBERNARD"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1783875787,
+     45.671369974
+    ]
+   },
+   "properties": {
+    "name": "SNEE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZI N 3 ROUTE DE L'ISLE-D'ESPAGNAC 16160 GOND-PONTOUVRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "39063320400024",
+    "commune": "GOND-PONTOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1330264144,
+     45.655252657
+    ]
+   },
+   "properties": {
+    "name": "EIFFAGE ENERGIE SYSTEMES - POITOU CHARENTES (EES - PC)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZI DES AGRIERS 73 RUE DU PORT THUREAU 16000 ANGOULEME",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "30206838200092",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.359123665,
+     45.670548157
+    ]
+   },
+   "properties": {
+    "name": "EIFFAGE ENERGIE SYSTEMES - POITOU CHARENTES (EES - PC)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n1602 AVENUE DE LA GRANDE CHAMPAGNE 16100 MERPINS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "30206838200159",
+    "commune": "MERPINS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1591828646,
+     45.648328932
+    ]
+   },
+   "properties": {
+    "name": "ALIPHONE",
+    "description": "**Télécoms et réseaux** (NAF 61.20Z)\n\n39-41 39 RUE HERGE 16000 ANGOULEME",
+    "secteur": "Télécoms et réseaux",
+    "naf": "61.20Z",
+    "siret": "42055946000225",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2020806324,
+     45.672504165
+    ]
+   },
+   "properties": {
+    "name": "IDLINE (IDLINE) (INTERPC)",
+    "description": "**Hébergement et données** (NAF 63.11Z)\n\nZ I N 3 86 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Hébergement et données",
+    "naf": "63.11Z",
+    "siret": "41167897200026",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1786631276,
+     45.680248343
+    ]
+   },
+   "properties": {
+    "name": "IDLINE (IDLINE) (INTERPC)",
+    "description": "**Hébergement et données** (NAF 63.11Z)\n\n377 ROUTE D'AGRIS 16430 CHAMPNIERS",
+    "secteur": "Hébergement et données",
+    "naf": "63.11Z",
+    "siret": "41167897200083",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.304126106,
+     45.683579122
+    ]
+   },
+   "properties": {
+    "name": "LA BOUTIQUE DU TELEPHONE (LBT)",
+    "description": "**Commerce informatique et télécoms** (NAF 47.42Z)\n\nCENTRE COMMERCIAL AUCHAN GALERIE MARCHANDE 16100 CHATEAUBERNARD",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.42Z",
+    "siret": "44763576400122",
+    "commune": "CHATEAUBERNARD"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1298894663,
+     45.637980706
+    ]
+   },
+   "properties": {
+    "name": "TECHCITY",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\n495 RUE DE BORDEAUX 16000 ANGOULEME",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "81038417200021",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.116580403,
+     45.6313916
+    ]
+   },
+   "properties": {
+    "name": "INMAC WSTORE (INMAC WSTORE)",
+    "description": "**Commerce informatique et télécoms** (NAF 46.51Z)\n\nPARC TERTIAIRE DU GRAND GIRAC PLOT 1 70 RUE JEAN DOUCET 16470 SAINT-MICHEL",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "46.51Z",
+    "siret": "38805549300125",
+    "commune": "SAINT-MICHEL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2194245669,
+     45.668771394
+    ]
+   },
+   "properties": {
+    "name": "SOLOCAL MARKETING SERVICES (SOLOCAL MARKETING SERVICES)",
+    "description": "**Hébergement et données** (NAF 63.11Z)\n\n8 RUE MARIE MARVINGT 16340 L'ISLE D'ESPAGNAC",
+    "secteur": "Hébergement et données",
+    "naf": "63.11Z",
+    "siret": "42204142600061",
+    "commune": "L'ISLE D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1466481614,
+     45.627763981
+    ]
+   },
+   "properties": {
+    "name": "F.ASS.T",
+    "description": "**Informatique** (NAF 62.01Z)\n\n1 RUE ROBERT DOISNEAU 16000 ANGOULEME",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "83201744600036",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2036752213,
+     45.671782756
+    ]
+   },
+   "properties": {
+    "name": "T.D.I SERVICES",
+    "description": "**Informatique** (NAF 62.02A)\n\nZONE INDUSTRIELLE N3 79 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Informatique",
+    "naf": "62.02A",
+    "siret": "42164347900031",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2020806324,
+     45.672504165
+    ]
+   },
+   "properties": {
+    "name": "NUMY (MVUE OZANGES SMS GOLD)",
+    "description": "**Hébergement et données** (NAF 63.11Z)\n\nZI N3 86 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Hébergement et données",
+    "naf": "63.11Z",
+    "siret": "95108713900014",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2020806324,
+     45.672504165
+    ]
+   },
+   "properties": {
+    "name": "A2I INFORMATIQUE (NOVENCI)",
+    "description": "**Commerce informatique et télécoms** (NAF 46.51Z)\n\nZI NUMERO 3 86 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "46.51Z",
+    "siret": "35283183800094",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1409529927,
+     45.644710808
+    ]
+   },
+   "properties": {
+    "name": "ESO SUR LOIRE (NIDEC LEROY-SOMER SERVICE)",
+    "description": "**Maintenance informatique** (NAF 33.14Z)\n\nBOULEVARD MARCELLIN LEROY 16000 ANGOULEME",
+    "secteur": "Maintenance informatique",
+    "naf": "33.14Z",
+    "siret": "34530540300072",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.307915237,
+     45.682809299
+    ]
+   },
+   "properties": {
+    "name": "GRADICOM",
+    "description": "**Commerce informatique et télécoms** (NAF 47.42Z)\n\nCENTRE COMMERCIAL AUCHAN CELLULE 36-40 40 RUE DE L'ANISSERIE 16100 CHATEAUBERNARD",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.42Z",
+    "siret": "48372142900049",
+    "commune": "CHATEAUBERNARD"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.4613269447,
+     45.667716984
+    ]
+   },
+   "properties": {
+    "name": "AVENIR CONFORT",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n2 RUE DES TEMPLIERS - LE BOURG 16220 VOUTHON",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "88353802700011",
+    "commune": "VOUTHON"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1752639416,
+     45.679372801
+    ]
+   },
+   "properties": {
+    "name": "CB ENERGIE (CB ENERGIE)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLES AVENAUDS 16160 GOND PONTOUVRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "79284989500026",
+    "commune": "GOND PONTOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1317117988,
+     45.645711908
+    ]
+   },
+   "properties": {
+    "name": "SOGEIC SYSTEM",
+    "description": "**Commerce informatique et télécoms** (NAF 46.51Z)\n\n69 RUE ALPHONSE AULARD 16000 ANGOULEME",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "46.51Z",
+    "siret": "49266307500025",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1904115338,
+     45.660467257
+    ]
+   },
+   "properties": {
+    "name": "ELECTRONIQUE CONCEPTION VENTE FABRICATIO",
+    "description": "**Maintenance informatique** (NAF 33.14Z)\n\n19 RUE DU SOUVENIR 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Maintenance informatique",
+    "naf": "33.14Z",
+    "siret": "39230997700016",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0304285965,
+     45.980228468
+    ]
+   },
+   "properties": {
+    "name": "LM SOLEIL CONSTRUCTION",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nVILLERET RUE DE L ALAMBIC 16140 SAINT-FRAIGNE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "97928775200013",
+    "commune": "SAINT-FRAIGNE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.177993986821195,
+     45.6810619010053
+    ]
+   },
+   "properties": {
+    "name": "LM SOLEIL CONSTRUCTION",
+    "description": "**Autre** (NAF 35.11Z)\n\n287 ROUTE DE PARIS 16430 CHAMPNIERS",
+    "secteur": "Autre",
+    "naf": "35.11Z",
+    "siret": "97928775200021",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.170075507542082,
+     45.6464336216288
+    ]
+   },
+   "properties": {
+    "name": "GOUPIL TECHNOLOGY",
+    "description": "**Édition de logiciels** (NAF 58.29C)\n\nAPPARTEMENT 13 8 BOULEVARD LIEDOT 16000 ANGOULEME",
+    "secteur": "Édition de logiciels",
+    "naf": "58.29C",
+    "siret": "98203163500013",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2024429112,
+     45.671760071
+    ]
+   },
+   "properties": {
+    "name": "SARL MAPPA ENERGIES",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZI N 3 75 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "49990809300028",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2036752213,
+     45.671782756
+    ]
+   },
+   "properties": {
+    "name": "TEAMWAY",
+    "description": "**Hébergement et données** (NAF 63.11Z)\n\nZI N 3 79 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Hébergement et données",
+    "naf": "63.11Z",
+    "siret": "85200366400012",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.8485117827,
+     45.963805028
+    ]
+   },
+   "properties": {
+    "name": "ETS ROY",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nROUTE DE LESTERPS 16420 BRIGUEUIL",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "48141488600012",
+    "commune": "BRIGUEUIL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.53976222463069,
+     45.7183802088043
+    ]
+   },
+   "properties": {
+    "name": "ERUDO",
+    "description": "**Informatique** (NAF 62.01Z)\n\n3 IMPASSE DE BEL AIR 16220 ROUZEDE",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "81863790200029",
+    "commune": "ROUZEDE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0085607264,
+     45.384451423
+    ]
+   },
+   "properties": {
+    "name": "SARL GUILLEMOT (SARL GUILLEMOT)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLA CABANE 16480 SAINT-FELIX",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "50296825800025",
+    "commune": "SAINT-FELIX"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.199224188689013,
+     46.0270639752439
+    ]
+   },
+   "properties": {
+    "name": "LBCD",
+    "description": "**Informatique** (NAF 62.02A)\n\n6 RUE DU PUY GRAFFIER 16700 RUFFEC",
+    "secteur": "Informatique",
+    "naf": "62.02A",
+    "siret": "51364665300040",
+    "commune": "RUFFEC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.184427061997602,
+     45.2642540206885
+    ]
+   },
+   "properties": {
+    "name": "SEA SUN ENERGIE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n10 IMPASSE DE LA GARE 16390 LAPRADE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "88506100200022",
+    "commune": "LAPRADE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1590554292,
+     45.655157949
+    ]
+   },
+   "properties": {
+    "name": "EXTRABAT FRANCE SAS",
+    "description": "**Édition de logiciels** (NAF 58.29C)\n\n49 BOULEVARD BESSON BEY 16000 ANGOULEME",
+    "secteur": "Édition de logiciels",
+    "naf": "58.29C",
+    "siret": "50163106300044",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.3939322947,
+     45.728405588
+    ]
+   },
+   "properties": {
+    "name": "MEDIA CONCEPT",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\n40 RTE DE MONTBRON 16110 LA ROCHEFOUCAULD-EN-ANGOUMOIS",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "79421234000028",
+    "commune": "LA ROCHEFOUCAULD-EN-ANGOUMOIS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.331130656074632,
+     45.6654827015526
+    ]
+   },
+   "properties": {
+    "name": "DAYRIES SAS (ART-CHARENTAIS.COM, MES PANTOUFLES.FR, DAYRIES.COM)",
+    "description": "**Informatique** (NAF 62.01Z)\n\nLIEUDIT GLANE 6 RUE DES MESANGES 16110 PRANZAC",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "79458217100011",
+    "commune": "PRANZAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.302419947,
+     45.70306499
+    ]
+   },
+   "properties": {
+    "name": "DAYRIES SAS (ART-CHARENTAIS.COM, MES PANTOUFLES.FR, DAYRIES.COM)",
+    "description": "**Informatique** (NAF 62.01Z)\n\nZE LA BRACONNE 103 ROUTE DU LAC MELOT 16600 MORNAC",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "79458217100029",
+    "commune": "MORNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.175360708,
+     45.658938659
+    ]
+   },
+   "properties": {
+    "name": "SANTEOS (MAGELLAN)",
+    "description": "**Autre** (NAF 70.22Z)\n\n149 B RUE DE LIMOGES 16000 ANGOULEME",
+    "secteur": "Autre",
+    "naf": "70.22Z",
+    "siret": "41930067800093",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2663454996,
+     45.703674477
+    ]
+   },
+   "properties": {
+    "name": "ECUS",
+    "description": "**Commerce informatique et télécoms** (NAF 46.52Z)\n\nZE QUARTIER DE LA LOGE 16590 BRIE",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "46.52Z",
+    "siret": "37773248200031",
+    "commune": "BRIE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.246616834,
+     45.462058915
+    ]
+   },
+   "properties": {
+    "name": "SARL BOIDE ELECTRICITE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLD LE BOURG 16300 GUIMPS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "48786737600013",
+    "commune": "GUIMPS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1310741473,
+     45.398954637
+    ]
+   },
+   "properties": {
+    "name": "N-ELEC16",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n10 GRAND RUE 16190 MONTMOREAU",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "53970977400019",
+    "commune": "MONTMOREAU"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0899411948324742,
+     45.9102400769469
+    ]
+   },
+   "properties": {
+    "name": "AC 16",
+    "description": "**Sécurité** (NAF 80.20Z)\n\n14 RUE DE LA GARENNE 16140 BARBEZIERES",
+    "secteur": "Sécurité",
+    "naf": "80.20Z",
+    "siret": "88804611700014",
+    "commune": "BARBEZIERES"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2564992809,
+     45.717068862
+    ]
+   },
+   "properties": {
+    "name": "LD ELEC",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n169 RUE DES SOUTERRAINS LES MOUGNAUDS 16590 BRIE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "87798303100015",
+    "commune": "BRIE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.8660653513,
+     45.946074194
+    ]
+   },
+   "properties": {
+    "name": "SARL A C E (A C E)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n27 AV DU GENERAL DE GAULLE 16420 BRIGUEUIL",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "53438116500024",
+    "commune": "BRIGUEUIL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1861371413,
+     45.690902484
+    ]
+   },
+   "properties": {
+    "name": "EX-TECH SOLUTION",
+    "description": "**Électricité et installations** (NAF 27.12Z)\n\nZA LES MONTAGNES 22 IMPASSE DE LA VOLUTE 16430 CHAMPNIERS",
+    "secteur": "Électricité et installations",
+    "naf": "27.12Z",
+    "siret": "41110174400018",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.175554336433728,
+     45.6716699869204
+    ]
+   },
+   "properties": {
+    "name": "FOLUELSO",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n41 ROUTE DE L'ISLE-D'ESPAGNAC 16160 GOND-PONTOUVRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "92524243000013",
+    "commune": "GOND-PONTOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2020806324,
+     45.672504165
+    ]
+   },
+   "properties": {
+    "name": "EDEDOC",
+    "description": "**Édition de logiciels** (NAF 58.29C)\n\n86 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Édition de logiciels",
+    "naf": "58.29C",
+    "siret": "81024003600014",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0865045971,
+     45.676423979
+    ]
+   },
+   "properties": {
+    "name": "CHARENTE BUREAUTIQUE SERVICE",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\n16 ZE DE GATE GRENIER 16730 FLEAC",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "33964122700030",
+    "commune": "FLEAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0571286841,
+     45.629883984
+    ]
+   },
+   "properties": {
+    "name": "MAINTENANCE ELECTRONIQUE INDUSTRIELLE - M.E.I.",
+    "description": "**Maintenance informatique** (NAF 33.13Z)\n\nZI 41 RUE AMPERE 16440 NERSAC",
+    "secteur": "Maintenance informatique",
+    "naf": "33.13Z",
+    "siret": "48792540600026",
+    "commune": "NERSAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0520108296,
+     45.626195835
+    ]
+   },
+   "properties": {
+    "name": "FIRMASOFT (XEFI ANGOULEME)",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\nPLACE DE L'UNION 16440 NERSAC",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "48812525300010",
+    "commune": "NERSAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2392542433,
+     45.65797145
+    ]
+   },
+   "properties": {
+    "name": "OMELEC 16",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n33 B RUE JEAN JAURES 16600 MAGNAC-SUR-TOUVRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "82233029600010",
+    "commune": "MAGNAC-SUR-TOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.238414179,
+     45.457865683
+    ]
+   },
+   "properties": {
+    "name": "MERLET ENERGIES",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n938 ROUTE DU TERRAGE 16300 GUIMPS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "38871602900011",
+    "commune": "GUIMPS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0304283541891165,
+     45.980230263875
+    ]
+   },
+   "properties": {
+    "name": "LN SHELTER",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nVILLERET 2 RUE DE L ALAMBIC 16140 SAINT-FRAIGNE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "97929110100017",
+    "commune": "SAINT-FRAIGNE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.237835124,
+     45.628017317
+    ]
+   },
+   "properties": {
+    "name": "SARL JF BARNY",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n13 RUE DU COTEAU 16130 SEGONZAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "37975409600020",
+    "commune": "SEGONZAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2268916012,
+     45.672991506
+    ]
+   },
+   "properties": {
+    "name": "KORUM (KORUM SOFTWARE ET KORUM SECURE)",
+    "description": "**Informatique** (NAF 62.01Z)\n\n22 RUE LOUIS BLERIOT 16600 MAGNAC-SUR-TOUVRE",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "84304479300027",
+    "commune": "MAGNAC-SUR-TOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1191476522,
+     45.648819569
+    ]
+   },
+   "properties": {
+    "name": "E.N.T.I ANGOULEME",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nVILLAGE DES MOLINES RUE LOUISE DE MARILLAC 16000 ANGOULEME",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "85142444000010",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.161732985,
+     45.476509593
+    ]
+   },
+   "properties": {
+    "name": "AVEONE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n23 AVENUE VERGNE 16300 BARBEZIEUX-SAINT-HILAIRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "53810219500020",
+    "commune": "BARBEZIEUX-SAINT-HILAIRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.348768454102621,
+     45.6964557214678
+    ]
+   },
+   "properties": {
+    "name": "OUZENAUD COUREAU",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n6 RUE DE LA HAUTE SARRAZINE 16100 COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "43012308300031",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.114054032,
+     45.943821007
+    ]
+   },
+   "properties": {
+    "name": "VSN SECURITE 17",
+    "description": "**Sécurité** (NAF 80.20Z)\n\n27 ROUTE DE LIGNE 16140 CHARME",
+    "secteur": "Sécurité",
+    "naf": "80.20Z",
+    "siret": "89819406300019",
+    "commune": "CHARME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1863137507,
+     45.695526434
+    ]
+   },
+   "properties": {
+    "name": "E.E.C.E",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLES GRANDES CHAUMES 4 RUE DE L'AUVENT 16430 CHAMPNIERS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "87940871400019",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1800682233,
+     45.698506197
+    ]
+   },
+   "properties": {
+    "name": "ALARME TELECOM SERVICE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLES CHAVAUDS RN 10 1866 RUE DES PLATANES 16430 CHAMPNIERS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "44279254500018",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.162095829322637,
+     45.6708632562618
+    ]
+   },
+   "properties": {
+    "name": "STUDIO NYX",
+    "description": "**Informatique** (NAF 62.01Z)\n\n144 ROUTE DE VARS 16160 GOND-PONTOUVRE",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "80054175700020",
+    "commune": "GOND-PONTOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.160616868,
+     45.464504184
+    ]
+   },
+   "properties": {
+    "name": "DAVIAS ELECTRICITE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n75 RUE DE LA REPUBLIQUE 16300 BARBEZIEUX-SAINT-HILAIRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "47898141800013",
+    "commune": "BARBEZIEUX-SAINT-HILAIRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1557329858,
+     45.650136373
+    ]
+   },
+   "properties": {
+    "name": "CHARENTES SERVICES INFORMATIQUES (CSI)",
+    "description": "**Hébergement et données** (NAF 63.11Z)\n\n2 RUE DES TROIS NOTRE DAME 16000 ANGOULEME",
+    "secteur": "Hébergement et données",
+    "naf": "63.11Z",
+    "siret": "33857184700031",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1466340615,
+     45.624842271
+    ]
+   },
+   "properties": {
+    "name": "MAP",
+    "description": "**Maintenance informatique** (NAF 33.13Z)\n\nZ.E MA CAMPAGNE 10 RUE ROBERT DOISNEAU 16000 ANGOULEME",
+    "secteur": "Maintenance informatique",
+    "naf": "33.13Z",
+    "siret": "34855668900019",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.353953878,
+     45.697033709
+    ]
+   },
+   "properties": {
+    "name": "COGNAC ELEC",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZAC MONTPLAISIR 9 RUE DE LA PEPINIERE 16100 COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "48289957200028",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2007622478,
+     46.030889849
+    ]
+   },
+   "properties": {
+    "name": "ELEC SOL'AIR (ELEC SOL'AIR)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n3 BOULEVARD DUPORTAL 16700 RUFFEC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "49969902300010",
+    "commune": "RUFFEC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0765781891,
+     45.555221552
+    ]
+   },
+   "properties": {
+    "name": "TELEPH ELEC SERVICES",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n2 IMPASSE DU BOIS FLEURI 16440 CLAIX",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "33433498400021",
+    "commune": "CLAIX"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.368551014,
+     45.740634857
+    ]
+   },
+   "properties": {
+    "name": "BREVIER LAURENT",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n23 AV DE BURIE 16370 VAL-DE-COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "81740803200016",
+    "commune": "VAL-DE-COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0952373777325175,
+     45.5984110200977
+    ]
+   },
+   "properties": {
+    "name": "A C R",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n5 AVENUE DE CONCORDIA 16400 LA COURONNE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "41113218600049",
+    "commune": "LA COURONNE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1721156648,
+     45.639668758
+    ]
+   },
+   "properties": {
+    "name": "GDV",
+    "description": "**Maintenance informatique** (NAF 33.14Z)\n\n4 RUE DU PONT DE VINSON 16000 ANGOULEME",
+    "secteur": "Maintenance informatique",
+    "naf": "33.14Z",
+    "siret": "40473233100016",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.321736209,
+     45.693030023
+    ]
+   },
+   "properties": {
+    "name": "VIKTORY",
+    "description": "**Édition de logiciels** (NAF 58.29C)\n\n40 RUE DE MARIGNAN 16100 COGNAC",
+    "secteur": "Édition de logiciels",
+    "naf": "58.29C",
+    "siret": "89232228000017",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.123136071,
+     45.559197892
+    ]
+   },
+   "properties": {
+    "name": "DEDICACE SOFTWARE",
+    "description": "**Informatique** (NAF 62.02A)\n\n4 ROUTE DE LA COTE A BOURNET 16440 MOUTHIERS-SUR-BOEME",
+    "secteur": "Informatique",
+    "naf": "62.02A",
+    "siret": "53146616700032",
+    "commune": "MOUTHIERS-SUR-BOEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.3850416346,
+     45.744922684
+    ]
+   },
+   "properties": {
+    "name": "SIMIR",
+    "description": "**Télécoms et réseaux** (NAF 61.90Z)\n\n45 FG LA SOUCHE 16110 LA ROCHEFOUCAULD-EN-ANGOUMOIS",
+    "secteur": "Télécoms et réseaux",
+    "naf": "61.90Z",
+    "siret": "80006036000032",
+    "commune": "LA ROCHEFOUCAULD-EN-ANGOUMOIS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.152047062576616,
+     45.6529836104429
+    ]
+   },
+   "properties": {
+    "name": "SCUB",
+    "description": "**Informatique** (NAF 62.01Z)\n\n102 RUE DE BORDEAUX 16000 ANGOULEME",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "44538246800020",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.327336406,
+     45.635521386
+    ]
+   },
+   "properties": {
+    "name": "TARDIEU ELECTRICITE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n8 RUE DU FIEF DE LA COUTURE 16130 GENTE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "43040681900028",
+    "commune": "GENTE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1816436836,
+     45.703712211
+    ]
+   },
+   "properties": {
+    "name": "ADVANCE GARDIENNAGE SURVEILLANCE ET SECURITE (AGS SECURITE)",
+    "description": "**Sécurité** (NAF 80.20Z)\n\n1296 RUE DES PLATANES LES CHAUVAUDS 16430 CHAMPNIERS",
+    "secteur": "Sécurité",
+    "naf": "80.20Z",
+    "siret": "91515545100015",
+    "commune": "CHAMPNIERS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1533107144,
+     45.605840119
+    ]
+   },
+   "properties": {
+    "name": "IMEX",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n27 RUE DE TIVOLI 16400 VŒUIL-ET-GIGET",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "48967831800044",
+    "commune": "VŒUIL-ET-GIGET"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1400614298,
+     45.67798633
+    ]
+   },
+   "properties": {
+    "name": "ARELEC",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLA COMBE 16710 SAINT-YRIEIX-SUR-CHARENTE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "34942518100014",
+    "commune": "SAINT-YRIEIX-SUR-CHARENTE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1378827435,
+     45.662001226
+    ]
+   },
+   "properties": {
+    "name": "L.I.D.E (L I D E)",
+    "description": "**Informatique** (NAF 62.02A)\n\n5 ROUTE DE SAINT-JEAN-D'ANGELY 16710 SAINT-YRIEIX-SUR-CHARENTE",
+    "secteur": "Informatique",
+    "naf": "62.02A",
+    "siret": "48271510900039",
+    "commune": "SAINT-YRIEIX-SUR-CHARENTE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.238005959,
+     45.478161981
+    ]
+   },
+   "properties": {
+    "name": "ETS BOURREAU",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nJUILLAGUET 11 RTE DES LOGIS CHEZ BIARD JUILLAGUET 16320 BOISNE-LA TUDE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "50172465200018",
+    "commune": "BOISNE-LA TUDE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.170368696627335,
+     45.6698685731772
+    ]
+   },
+   "properties": {
+    "name": "PRESTALLIANCE (PRESTALLIANCE)",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n27 RUE DE LA GARENNE 16160 GOND-PONTOUVRE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "80855570000042",
+    "commune": "GOND-PONTOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.173809093,
+     45.680621929
+    ]
+   },
+   "properties": {
+    "name": "VICALI",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\n12 B RUE GABRIEL PERI 16200 JARNAC",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "83210665200023",
+    "commune": "JARNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0129748135,
+     45.673341215
+    ]
+   },
+   "properties": {
+    "name": "BRUNAL INDUST",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nZONE LE CHAMP FARCHAUD ROUTE DE TARSAC 16290 HIERSAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "50157960100037",
+    "commune": "HIERSAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.324681049,
+     45.689330773
+    ]
+   },
+   "properties": {
+    "name": "ATEIC ELECTRICITE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n15 BOULEVARD EMILE ZOLA 16100 COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "81423379700012",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.32947393,
+     45.691876789
+    ]
+   },
+   "properties": {
+    "name": "SRM (SRM)",
+    "description": "**Télécoms et réseaux** (NAF 61.20Z)\n\n18 RUE ELISEE MOUSNIER 16100 COGNAC",
+    "secteur": "Télécoms et réseaux",
+    "naf": "61.20Z",
+    "siret": "51767788600049",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.3449930171,
+     45.783056882
+    ]
+   },
+   "properties": {
+    "name": "CONFORT ELEC 16",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLA PETITE RIVIERE 16110 AGRIS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "80078143700028",
+    "commune": "AGRIS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.6706009964,
+     46.016767021
+    ]
+   },
+   "properties": {
+    "name": "ZED IMMOBILIER CONSTRUCTION",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n2 RUE COUVENT DES CLARISSES 16500 CONFOLENS",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "90188873500015",
+    "commune": "CONFOLENS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.172265459692395,
+     45.6663975892637
+    ]
+   },
+   "properties": {
+    "name": "CHARENTE INFORMATIQUE DIFFUSION (CID)",
+    "description": "**Commerce informatique et télécoms** (NAF 46.51Z)\n\nPISANY 79 ROUTE DE PARIS 16160 GOND-PONTOUVRE",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "46.51Z",
+    "siret": "41756251900021",
+    "commune": "GOND-PONTOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2893616148,
+     45.715008061
+    ]
+   },
+   "properties": {
+    "name": "SARL PEREIRA JOSE",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n200 ALLEE DES CHATELEAUX 16590 BRIE",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "74994872500017",
+    "commune": "BRIE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.188426558959255,
+     45.6789740038723
+    ]
+   },
+   "properties": {
+    "name": "SODATEC CITES (SODATEC)",
+    "description": "**Maintenance informatique** (NAF 95.11Z)\n\nPARC DE LA ROCADE 16600 RUELLE-SUR-TOUVRE",
+    "secteur": "Maintenance informatique",
+    "naf": "95.11Z",
+    "siret": "31452556900070",
+    "commune": "RUELLE-SUR-TOUVRE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.309530765,
+     45.687260269
+    ]
+   },
+   "properties": {
+    "name": "LOGIC'ALL",
+    "description": "**Informatique** (NAF 62.01Z)\n\n5 B AVENUE D'ANGOULEME 16100 CHATEAUBERNARD",
+    "secteur": "Informatique",
+    "naf": "62.01Z",
+    "siret": "43414253500054",
+    "commune": "CHATEAUBERNARD"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0752540575,
+     45.626945034
+    ]
+   },
+   "properties": {
+    "name": "BEMTS",
+    "description": "**Maintenance informatique** (NAF 33.14Z)\n\n1 ROUTE D'ANGOULEME 16400 LA COURONNE",
+    "secteur": "Maintenance informatique",
+    "naf": "33.14Z",
+    "siret": "31757581900022",
+    "commune": "LA COURONNE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2036752213,
+     45.671782756
+    ]
+   },
+   "properties": {
+    "name": "SEQUENCE SERVICES",
+    "description": "**Maintenance informatique** (NAF 95.11Z)\n\nZONE INDUSTRIELLE N 3 79 AVENUE MARYSE BASTIE 16340 L'ISLE-D'ESPAGNAC",
+    "secteur": "Maintenance informatique",
+    "naf": "95.11Z",
+    "siret": "88391278400013",
+    "commune": "L'ISLE-D'ESPAGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.330110087,
+     45.684201825
+    ]
+   },
+   "properties": {
+    "name": "SARL MULLER",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n8 RUE LOCUSSOL 16100 COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "38037370400028",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.2130312348,
+     45.628867682
+    ]
+   },
+   "properties": {
+    "name": "KMJ HABITAT",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nLE POIRIER CADET 16800 SOYAUX",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "83051712400012",
+    "commune": "SOYAUX"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.176574219022905,
+     45.8038457604781
+    ]
+   },
+   "properties": {
+    "name": "SARL RESPEC'",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n277 RUE DE LA MAIRIE 16560 VILLEJOUBERT",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "49833409300016",
+    "commune": "VILLEJOUBERT"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.122207977,
+     45.754870692
+    ]
+   },
+   "properties": {
+    "name": "JCM TECHNOLOGIE (JCM TECHNOLOGIE)",
+    "description": "**Commerce informatique et télécoms** (NAF 47.41Z)\n\nLE LANTILLON 132 IMP DE L'EST 16170 ROUILLAC",
+    "secteur": "Commerce informatique et télécoms",
+    "naf": "47.41Z",
+    "siret": "82121013500025",
+    "commune": "ROUILLAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0285317546,
+     45.747909345
+    ]
+   },
+   "properties": {
+    "name": "TECHPROELEC",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\nBOURSANDREAU 16570 SAINT-GENIS-D'HIERSAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "80738948100019",
+    "commune": "SAINT-GENIS-D'HIERSAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.31867202,
+     45.689607628
+    ]
+   },
+   "properties": {
+    "name": "B.VISEUX",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n136 AVENUE VICTOR HUGO 16100 COGNAC",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "81939973400022",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.324541643,
+     45.695982125
+    ]
+   },
+   "properties": {
+    "name": "W.A.S.I. (WINE AND SPIRITS INTELLIGENCE - IWM - INTERNATIONAL WINE MANAGEMENT)",
+    "description": "**Informatique** (NAF 62.02A)\n\n8 RUE DUPUY 16100 COGNAC",
+    "secteur": "Informatique",
+    "naf": "62.02A",
+    "siret": "51766508900028",
+    "commune": "COGNAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1245157412,
+     45.56069655
+    ]
+   },
+   "properties": {
+    "name": "SASEM",
+    "description": "**Électricité et installations** (NAF 43.21A)\n\n19 B RUE DE LA COTE A BOURNET 16440 MOUTHIERS-SUR-BOEME",
+    "secteur": "Électricité et installations",
+    "naf": "43.21A",
+    "siret": "85379236400012",
+    "commune": "MOUTHIERS-SUR-BOEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0878391417,
+     45.675822962
+    ]
+   },
+   "properties": {
+    "name": "BLACK SWAN TECHNOLOGY",
+    "description": "**Électronique** (NAF 26.20Z)\n\n12 ZE GATE GRENIER 16730 FLEAC",
+    "secteur": "Électronique",
+    "naf": "26.20Z",
+    "siret": "52795522300039",
+    "commune": "FLEAC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.170313311696342,
+     45.6471063859076
+    ]
+   },
+   "properties": {
+    "name": "ORDIMARQUES (ORDIMARQUES.COM)",
+    "description": "**Électronique** (NAF 26.20Z)\n\n172 RUE DE PERIGUEUX 16000 ANGOULEME",
+    "secteur": "Électronique",
+    "naf": "26.20Z",
+    "siret": "79034768600012",
+    "commune": "ANGOULEME"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1622968572,
+     45.674818773
+    ]
+   },
+   "properties": {
+    "name": "STEPHANE GATEAU (STG MICRO INFORMATIQUE)",
+    "description": "**Informatique** (NAF 62.02B)\n\n40 RUE ALFRED LEYSSENOT 16160 GOND-PONTOUVRE",
+    "secteur": "Informatique",
+    "naf": "62.02B",
+    "siret": "81059427500010",
+    "commune": "GOND-PONTOUVRE"
+   }
+  }
+ ]
+}
