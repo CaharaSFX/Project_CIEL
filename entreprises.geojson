@@ -276,24 +276,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.403376211,
-     45.635220983
-    ]
-   },
-   "properties": {
-    "name": "NEXECUR PROTECTION (CTCAM) (CTCAM)",
-    "description": "**Autre** (NAF 52.10B)\n\n3 ROUTE DE SAINTE FOY 16130 ARS",
-    "secteur": "Autre",
-    "naf": "52.10B",
-    "siret": "79986934200508",
-    "commune": "ARS"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.1304151275,
      45.678893467
     ]
@@ -305,24 +287,6 @@
     "naf": "62.02B",
     "siret": "40356113700486",
     "commune": "SAINT-YRIEIX-SUR-CHARENTE"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.0878376089332766,
-     45.607498757586
-    ]
-   },
-   "properties": {
-    "name": "LOCAL.FR",
-    "description": "**Commerce informatique et télécoms** (NAF 47.91B)\n\nLE MOULIN DE L'ABBAYE 135 ROUTE DE BORDEAUX 16400 LA COURONNE",
-    "secteur": "Commerce informatique et télécoms",
-    "naf": "47.91B",
-    "siret": "33122115000195",
-    "commune": "LA COURONNE"
    }
   },
   {
@@ -413,24 +377,6 @@
     "naf": "43.21A",
     "siret": "41478049400103",
     "commune": "FEUILLADE"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -0.308896355,
-     45.680810732
-    ]
-   },
-   "properties": {
-    "name": "CHARANTELEC (DELAGE ENERGIES)",
-    "description": "**Électricité et installations** (NAF 43.22B)\n\nRUE PIERRE LATECOERE 16100 CHATEAUBERNARD",
-    "secteur": "Électricité et installations",
-    "naf": "43.22B",
-    "siret": "41478049400111",
-    "commune": "CHATEAUBERNARD"
    }
   },
   {
@@ -816,24 +762,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.177993986821195,
-     45.6810619010053
-    ]
-   },
-   "properties": {
-    "name": "LM SOLEIL CONSTRUCTION",
-    "description": "**Autre** (NAF 35.11Z)\n\n287 ROUTE DE PARIS 16430 CHAMPNIERS",
-    "secteur": "Autre",
-    "naf": "35.11Z",
-    "siret": "97928775200021",
-    "commune": "CHAMPNIERS"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      0.170075507542082,
      45.6464336216288
     ]
@@ -1043,24 +971,6 @@
     "naf": "62.01Z",
     "siret": "79458217100029",
     "commune": "MORNAC"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     0.175360708,
-     45.658938659
-    ]
-   },
-   "properties": {
-    "name": "SANTEOS (MAGELLAN)",
-    "description": "**Autre** (NAF 70.22Z)\n\n149 B RUE DE LIMOGES 16000 ANGOULEME",
-    "secteur": "Autre",
-    "naf": "70.22Z",
-    "siret": "41930067800093",
-    "commune": "ANGOULEME"
    }
   },
   {

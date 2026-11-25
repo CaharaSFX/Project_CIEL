@@ -105,6 +105,8 @@ def vers_features(entreprise, departement, filtrer=True):
         if not lat or not lon:
             continue
         naf = etab.get("activite_principale") or entreprise.get("activite_principale") or ""
+        if filtrer and naf not in CODES_NAF:
+            continue
         secteur = SECTEURS.get(naf[:2], "Autre")
         resultat.append({
             "type": "Feature",
@@ -149,6 +151,9 @@ def main():
                 trouvees += len(nouvelles)
                 ajouter(nouvelles)
             print(f"  Ajout manuel « {nom} » : {trouvees} établissement(s) trouvé(s)")
+
+    if not features:
+        raise RuntimeError("Aucune entreprise trouvée : fichier non modifié")
 
     with open(FICHIER_SORTIE, "w", encoding="utf-8") as f:
         json.dump({"type": "FeatureCollection", "features": features},
